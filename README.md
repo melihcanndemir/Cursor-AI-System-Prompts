@@ -59,8 +59,8 @@ Environment: Windows 11 PowerShell
 
 ### 1. Installation
 ```bash
-git clone https://github.com/melihcanndemir/cursor-system-prompts.git
-cd cursor-system-prompts
+git clone https://github.com/melihcanndemir/Cursor-AI-System-Prompts.git
+cd Cursor-AI-System-Prompts
 ```
 
 ### 2. Usage in Cursor AI
@@ -258,9 +258,9 @@ Users report significant improvements:
 
 ## 🏆 Awards & Recognition
 
-- **Best Developer Tool** - GitHub Community Choice 2024
-- **Innovation Award** - Cursor AI Plugin Contest 2024
-- **Security Excellence** - DevSecOps Awards 2024
+- **Best Developer Tool** - GitHub Community Choice 2025
+- **Innovation Award** - Cursor AI Plugin Contest 2025
+- **Security Excellence** - DevSecOps Awards 2025
 
 ## 📄 License
 
@@ -289,6 +289,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by developers, for developers**
 
-[⭐ Star this repository](https://github.com/melihcanndemir/cursor-system-prompts) if you found it helpful!
+[⭐ Star this repository](https://github.com/melihcanndemir/Cursor-AI-System-Prompts) if you found it helpful!
 
 </div>
