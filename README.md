@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=melihcanndemir/cursor-system-prompts&type=Timeline)](https://star-history.com/#melihcanndemir/cursor-system-prompts&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=melihcanndemir/Cursor-AI-System-Prompts&type=Timeline)](https://star-history.com/#melihcanndemir/Cursor-AI-System-Prompts&Timeline)
 
 ## 📬 Contact
 
